@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#team-coin-fliptarget-_blank" id="toc-team-coin-fliptarget-_blank" class="nav-link active" data-scroll-target="#team-coin-fliptarget-_blank">Team Coin Flip{target = “_blank”}</a></li>
+  <li><a href="#team-coin-flip-travel-fatigue-and-performance" id="toc-team-coin-flip-travel-fatigue-and-performance" class="nav-link active" data-scroll-target="#team-coin-flip-travel-fatigue-and-performance">Team Coin Flip: Travel Fatigue and Performance</a></li>
   <li><a href="#breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons" id="toc-breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons" class="nav-link" data-scroll-target="#breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons">Breaking the Cycle: Reducing Recidivism in Iowa State Prisons</a></li>
   </ul>
 </nav>
@@ -134,8 +134,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="team-coin-fliptarget-_blank" class="level3">
-<h3 class="anchored" data-anchor-id="team-coin-fliptarget-_blank"><a href="https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance">Team Coin Flip</a>{target = “_blank”}</h3>
+<section id="team-coin-flip-travel-fatigue-and-performance" class="level3">
+<h3 class="anchored" data-anchor-id="team-coin-flip-travel-fatigue-and-performance"><a href="https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance">Team Coin Flip: Travel Fatigue and Performance</a></h3>
 <p>This group project looked to determine whether an MLB team's travel schedule and fatigue had any effect on a team's in game performance. Initially through our exploratory data analysis, we found that there was significant evidence for the prevelance of home-field advantage, and, through a Granger Causality Test, we found that there was no evidence to support causality between the distance travelled by a team, and their offensive and defensive on-base percentage(OBA).</p>
 <p>We looked to get a baseline understanding of a team's ability by developing an ELO ranking system derived from 538's NFL ELO system, accounting for margin of victory and pitching form. Additionally, two scalars which controlled the extent of ELO change were found by determining what the scalars were when the AUC-ROC score was highest.</p>
 <p>We then used ELO and a mixture of fatigue metrics(distance travelled, jet lag, days away team has been on the road, and the difference in travel direction for both teams) in an XGBoost model which looked to predict the probability of the home team winning for each game. Through a feature analysis, we found that the fatigue metrics had very little effect on the model's predictions, concluding that fatigue and travel had very little effect on a team's in game performance.</p>
