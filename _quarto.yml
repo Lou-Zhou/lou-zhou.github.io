@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "lou-zhou.github.io"
+  title: "Lou Zhou"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - text: Resume
+        href: assets/Lou_Zhou_Resume.pdf
+        target: _blank
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
