@@ -10,12 +10,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Lou-Zhou
-    - icon: blog
-      text: My Blog
-      href: https://medium.com/@louzhou6
-    - icon: email
+    - icon: envelope
       text: Email
       href: mailto:lz80@rice.edu
+    - icon: pencil
+      text: My Blog
+      href: https://medium.com/@louzhou6
 ---
 
 Hello! My name is Lou Zhou and I am a current Sophmore at Rice University, double majoring in Statistics and Sport Analytics. I\'m originally from Memphis, Tennessee, graduating from Memphis University School in 2023.
