@@ -26,6 +26,6 @@ I currently work under the mentorship of Dr. Scott Powers, working on a project 
 
 Previously, I've worked in biostatistics at St. Jude Children's Research Hospital under Dr. Gang Wu, where I worked to use functional Principal Component Analysis to determine statistically significant genetic markers that contribute to the progression of an ALS patient. In high school, I've worked for both the Tennessee Shelby County Voting Commission and the U.S. Air Force Research Lab, where I created internal tools for data analysis and cleaning.
 
-In my free time, I enjoy woodworking, gardening(and cooking using what I've grown), and playing soccer.
+In my free time, I enjoy woodworking, gardening (and cooking using what I've grown), and playing soccer.
 
 I am currently looking for data science opportunities for Summer 2025, so if you feel that I am a good fit for your organization, please feel free to reach out!
