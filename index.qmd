@@ -20,14 +20,14 @@ about:
 
 
 :::{#hero-heading}
-Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics and Sport Analytics. I currently serve as a research assistant in [Professor Scott Powers' Lab at Rice University](https://saberpowers.github.io/lab/). Although my background throughout college is primarily in academia, I am interested in solving problems with applied statistics and data science in both industry and academia, with my main focus being in sports.
+Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics and Sport Analytics. I currently work as a research assistant in [Professor Scott Powers' Lab at Rice University](https://saberpowers.github.io/lab/) where I focus on projects in sport analytics. While my experience so far has been primarily in academia, I have always been interested in applying data science and applied statistics to solve real-world problems both in research and industry.
 
 Outside of data science, I enjoy gardening, playing soccer, and technical theater.
 
 ## Education
 
 **Rice University** | Houston, TX\
-B.A in Statistics and Sport Analytics | August 2023 - May 2027
+B.A. in Statistics and Sport Analytics | August 2023 - May 2027
 
 ## Experience
 
