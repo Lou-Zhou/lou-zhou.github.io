@@ -1,7 +1,7 @@
 ---
 title: "Lou Zhou"
 about:
-  template: solana
+  template: trestles
   image: assets/Lou_Zhou_Photo_2.jpeg
   links:
     - icon: linkedin
@@ -18,12 +18,33 @@ about:
       href: https://medium.com/@louzhou6
 ---
 
-Hello! My name is Lou Zhou and I am a current sophomore at Rice University, double majoring in Statistics and Sport Analytics. I'm originally from Memphis, Tennessee, graduating from Memphis University School in 2023.
 
-Having played soccer since I was 5, I'm a huge sports fan, and I'm particularly interested in the applications of statistics to answer questions in the sports world. In my free time, I try to investigate any problems that I find interesting in my [blog](https://medium.com/@louzhou6).
+:::{#hero-heading}
+Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics and Sport Analytics. I currently serve as a research assistant in [Professor Scott Powers' Lab at Rice University](https://saberpowers.github.io/lab/). Although my background throughout college is primarily in academia, I am interested in solving problems with applied statistics and data science in both industry and academia, with my main focus being in sports.
 
-I currently work under the mentorship of Dr. Scott Powers, working on a project in conjunction with the TSG Research Lab, the research arm of Bundesliga team TSG 1899 Hoffenheim, which looks to determine the effect of VR training on in-game decision-making. Here, I am focused on applying convolutional neural networks on full tracking data to quantify decision-making both on the field and in a VR space. I also serve as a TA for the university's introductory sport analytics course. Additionally, this summer, I will be headed to Pittsburgh as an undergraduate researcher in sport analytics at CMU.
+Outside of data science, I enjoy gardening, playing soccer, and technical theater.
 
-Previously, I've worked in biostatistics at St. Jude Children's Research Hospital under Dr. Gang Wu, where I worked to use functional Principal Component Analysis to determine statistically significant genetic markers that contribute to the progression of an ALS patient. In high school, I've worked for both the Tennessee Shelby County Voting Commission and the U.S. Air Force Research Lab, where I created internal tools for data analysis and cleaning.
+## Education
 
-In my free time, I enjoy woodworking, gardening (and cooking using what I've grown), and playing soccer.
+**Rice University** | Houston, TX\
+B.A in Statistics and Sport Analytics | August 2023 - May 2027
+
+## Experience
+
+**Rice Athletics** | Houston, TX | Student Technical Lead\
+Incoming August 2025
+
+**Carnegie Mellon University** | Pittsburgh, PA | Undergraduate Researcher\
+June 2025 - July 2025 | *Mentors: [Karim Kassam](https://www.linkedin.com/in/karim-kassam-a4369972), [Quang Nguyen](https://qntkhvn.netlify.app/)*
+
+**Rice University** | Houston, TX | Research Assistant\
+August 2024 - Present | *PI: [Scott Powers](https://saberpowers.github.io/)*
+
+**St. Jude Children's Research Hospital** | Memphis, TN | Research Assistant\
+June 2024 - July 2024 | *PI: [Gang Wu](https://www.stjude.org/research/labs/wu-lab-gang.html)*
+
+**Shelby County Election Commission** | Memphis, TN | Data Analyst Intern\
+June 2023 - July 2023
+
+:::
+
