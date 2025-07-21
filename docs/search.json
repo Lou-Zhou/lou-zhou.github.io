@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "assets/QBReadR.html#motivating-example---pj-walker-to-dj-moore",
+    "href": "assets/QBReadR.html#motivating-example---pj-walker-to-dj-moore",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Motivating Example - PJ Walker to DJ Moore",
+    "text": "Motivating Example - PJ Walker to DJ Moore"
+  },
+  {
+    "objectID": "assets/QBReadR.html#motivating-questions",
+    "href": "assets/QBReadR.html#motivating-questions",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Motivating Questions",
+    "text": "Motivating Questions\n\n\nHow likely would other QBs make that same decision?\n\n\n\n\nCan we quantify how reckless or conservative a QB is?\n\nAre QBs being too reckless or too conservative in their throws?\n\n\n\n\n\nContextualizing touchdown throws / interceptions\n\nWould other QBs make the same decision?\n\n\n\n\n\nLook to build a ranking model which determines the most likely receiver at a frame given throw attempt"
+  },
+  {
+    "objectID": "assets/QBReadR.html#data-overview",
+    "href": "assets/QBReadR.html#data-overview",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Data Overview",
+    "text": "Data Overview\n\n\n\n2025 NFL Big Data Bowl – Weeks 1–9\n\n\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\n\n\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
+  },
+  {
+    "objectID": "assets/QBReadR.html#current-spacing-tells-an-incomplete-story",
+    "href": "assets/QBReadR.html#current-spacing-tells-an-incomplete-story",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Current Spacing Tells an Incomplete Story",
+    "text": "Current Spacing Tells an Incomplete Story"
+  },
+  {
+    "objectID": "assets/QBReadR.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "href": "assets/QBReadR.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Speed and Orientation as a Proxy for Future Separation",
+    "text": "Speed and Orientation as a Proxy for Future Separation"
+  },
+  {
+    "objectID": "assets/QBReadR.html#methodology",
+    "href": "assets/QBReadR.html#methodology",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Methodology",
+    "text": "Methodology\n\n\nBuilding a ranking algorithm(i.e. XGBoost) to rank the likeliest recipient at a frame - 53.0 \\(\\pm\\) 0.6% accuracy\n\nImputing Features like distance from tracking and event data\nPrevious Work: Deep Learning Approach1, 59.8% accuracy\n\n\n\n\n\nApplying model to quantify recklessness / conservative tendencies of quarterbacks\n\n\nBurke, Brian. “DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making & Performance.” MIT Sloan Sports Analytics Conference, 1 Mar. 2019."
+  },
+  {
+    "objectID": "assets/QBReadR.html#feature-set",
+    "href": "assets/QBReadR.html#feature-set",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Feature Set",
+    "text": "Feature Set\n\nRecipient Features - Distances, Differences in Orientations and Speeds from Top 5 Closest Defenders, Whether the Throw will Result in a First Down, Space Creation1, Receiver Skill\n\n\n\nQuarterback Features - Distance from Receiver, Movement Vector, Defensive Pressure\n\n\n\n\nGame Context - Win Probability, Quarter, Down and Distance, Score Differential\n\n\nhttps://github.com/burrisk/Big-Data-Bowl/"
+  },
+  {
+    "objectID": "assets/QBReadR.html#future-steps",
+    "href": "assets/QBReadR.html#future-steps",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Future Steps",
+    "text": "Future Steps\n\n\nContinuing to build feature set to increase model performance\n\nLooking to perform comparably with previous deep learning approach and simpler models\n\n\n\n\n\nCutting down on Redundant Features and Parameter Tuning\n\nBuilding the simplest model with the strongest predictive power\n\n\n\n\n\nQuantifying Recklessness with Model Outputs"
+  },
+  {
+    "objectID": "assets/QBReadR.html#appendix",
+    "href": "assets/QBReadR.html#appendix",
+    "title": "Quantifying QB Throw Decision-Making in Football",
+    "section": "Appendix",
+    "text": "Appendix"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Team Coin Flip: Travel Fatigue and Performance\nThis group project looked to determine whether an MLB team’s travel schedule and fatigue had any effect on a team’s in game performance. Initially through our exploratory data analysis, we found that there was significant evidence for the prevelance of home-field advantage, and, through a Granger Causality Test, we found that there was no evidence to support causality between the distance travelled by a team, and their offensive and defensive on-base percentage(OBA).\nWe looked to get a baseline understanding of a team’s ability by developing an ELO ranking system derived from 538’s NFL ELO system, accounting for margin of victory and pitching form. Additionally, two scalars which controlled the extent of ELO change were found by a grid-search parameter tuning method.\nUsing the ELO and a group of fatigue metrics(distance travelled, jet lag, days away team has been on the road, and the difference in travel direction for both teams), we built an XGBoost model which looked to predict the probability of the home team winning for each game. Through a feature analysis, we found that the fatigue metrics had very little effect on the model’s predictions, concluding that fatigue and travel had very little effect on a team’s in game performance.\nThis project was a submission for the 36-hour 2024 Rice Datathon, where we finished 2nd place overall out of 59 teams and received a $700 team prize.\n\n\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons\n\nThis group project evaluates the factors contributing to prison recidivism and looks to predict the total fiscal cost of recidivism for the May 2023 population of the Iowa state prison system. We created a binary classifier using a Feedforward Neural Network which would predict the probability that an inmate, given certain variables, would re-offend.\nSince it was found that time-sensitive, county-level data (e.g. unemployment rate) affected recidivism rates, we fit distributions to model the length of an inmate’s sentence, given the severity of the crime, and created regressions to model the county-level data at release time. We also used previous data to find the odds of an inmate committing a different severity of crime, given that they re-offend.\nThese models were used in a Monte Carlo simulation, where for each trial, the simulation predicts the release month of each inmate and the county-level parameters at that time. Using these variables, a Feedforward Neural Network predicts the odds of recidivism. We also find what level of crime would be committed, given re-offense, for each crime. We would then find the expected cost of recidivism by multiplying all the odds of recidivism by the fiscal cost of the predicted severity of crime.\nFor factor analysis, we used the SHAP (SHapley Additive exPlantations) library which used Shapley values from game theory to find which variables had the most effect on an inmate’s probability of re-offense.\nThis project was created as a submission for the 2023 Modeling the Future Challenge (MTFC), where we finished 2nd place out of 227 teams, gaining a $15,000 team award as well as a publication in the 2023 edition of the Actuarial Clearing House publication."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lou Zhou",
@@ -19,12 +89,5 @@
     "title": "Lou Zhou",
     "section": "",
     "text": "Rice Athletics | Houston, TX | Student Technical Lead\nIncoming August 2025\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu\nShelby County Election Commission | Memphis, TN | Data Analyst Intern\nJune 2023 - July 2023"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Team Coin Flip: Travel Fatigue and Performance\nThis group project looked to determine whether an MLB team’s travel schedule and fatigue had any effect on a team’s in game performance. Initially through our exploratory data analysis, we found that there was significant evidence for the prevelance of home-field advantage, and, through a Granger Causality Test, we found that there was no evidence to support causality between the distance travelled by a team, and their offensive and defensive on-base percentage(OBA).\nWe looked to get a baseline understanding of a team’s ability by developing an ELO ranking system derived from 538’s NFL ELO system, accounting for margin of victory and pitching form. Additionally, two scalars which controlled the extent of ELO change were found by a grid-search parameter tuning method.\nUsing the ELO and a group of fatigue metrics(distance travelled, jet lag, days away team has been on the road, and the difference in travel direction for both teams), we built an XGBoost model which looked to predict the probability of the home team winning for each game. Through a feature analysis, we found that the fatigue metrics had very little effect on the model’s predictions, concluding that fatigue and travel had very little effect on a team’s in game performance.\nThis project was a submission for the 36-hour 2024 Rice Datathon, where we finished 2nd place overall out of 59 teams and received a $700 team prize.\n\n\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons\n\nThis group project evaluates the factors contributing to prison recidivism and looks to predict the total fiscal cost of recidivism for the May 2023 population of the Iowa state prison system. We created a binary classifier using a Feedforward Neural Network which would predict the probability that an inmate, given certain variables, would re-offend.\nSince it was found that time-sensitive, county-level data (e.g. unemployment rate) affected recidivism rates, we fit distributions to model the length of an inmate’s sentence, given the severity of the crime, and created regressions to model the county-level data at release time. We also used previous data to find the odds of an inmate committing a different severity of crime, given that they re-offend.\nThese models were used in a Monte Carlo simulation, where for each trial, the simulation predicts the release month of each inmate and the county-level parameters at that time. Using these variables, a Feedforward Neural Network predicts the odds of recidivism. We also find what level of crime would be committed, given re-offense, for each crime. We would then find the expected cost of recidivism by multiplying all the odds of recidivism by the fiscal cost of the predicted severity of crime.\nFor factor analysis, we used the SHAP (SHapley Additive exPlantations) library which used Shapley values from game theory to find which variables had the most effect on an inmate’s probability of re-offense.\nThis project was created as a submission for the 2023 Modeling the Future Challenge (MTFC), where we finished 2nd place out of 227 teams, gaining a $15,000 team award as well as a publication in the 2023 edition of the Actuarial Clearing House publication."
   }
 ]
