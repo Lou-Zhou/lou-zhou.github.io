@@ -116,8 +116,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#team-coin-flip-travel-fatigue-and-performance" id="toc-team-coin-flip-travel-fatigue-and-performance" class="nav-link active" data-scroll-target="#team-coin-flip-travel-fatigue-and-performance">Team Coin Flip: Travel Fatigue and Performance</a></li>
-  <li><a href="#breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons" id="toc-breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons" class="nav-link" data-scroll-target="#breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons">Breaking the Cycle: Reducing Recidivism in Iowa State Prisons</a></li>
+  <li><a href="#academic-projects" id="toc-academic-projects" class="nav-link active" data-scroll-target="#academic-projects">Academic Projects</a></li>
+  <li><a href="#blog" id="toc-blog" class="nav-link" data-scroll-target="#blog">Blog</a></li>
   </ul>
 </nav>
     </div>
@@ -143,21 +143,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="team-coin-flip-travel-fatigue-and-performance" class="level3">
-<h3 class="anchored" data-anchor-id="team-coin-flip-travel-fatigue-and-performance"><a href="https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance">Team Coin Flip: Travel Fatigue and Performance</a></h3>
-<p>This group project looked to determine whether an MLB team’s travel schedule and fatigue had any effect on a team’s in game performance. Initially through our exploratory data analysis, we found that there was significant evidence for the prevelance of home-field advantage, and, through a Granger Causality Test, we found that there was no evidence to support causality between the distance travelled by a team, and their offensive and defensive on-base percentage(OBA).</p>
-<p>We looked to get a baseline understanding of a team’s ability by developing an ELO ranking system derived from 538’s NFL ELO system, accounting for margin of victory and pitching form. Additionally, two scalars which controlled the extent of ELO change were found by a grid-search parameter tuning method.</p>
-<p>Using the ELO and a group of fatigue metrics(distance travelled, jet lag, days away team has been on the road, and the difference in travel direction for both teams), we built an XGBoost model which looked to predict the probability of the home team winning for each game. Through a feature analysis, we found that the fatigue metrics had very little effect on the model’s predictions, concluding that fatigue and travel had very little effect on a team’s in game performance.</p>
-<p>This project was a submission for the 36-hour 2024 Rice Datathon, where we finished 2nd place overall out of 59 teams and received a $700 team prize.</p>
+<section id="academic-projects" class="level2">
+<h2 class="anchored" data-anchor-id="academic-projects">Academic Projects</h2>
+<p><strong>QBReadR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice</strong> [<a href="https://lou-zhou.github.io/assets/QBReadR/QBReadR_Poster.html#/title-slide">Poster</a>] [<a href="https://lou-zhou.github.io/assets/QBReadR/QBReadR_Slides.html#/title-slide">Slides</a>] [<a href="https://lou-zhou.github.io/assets/QBReadR/QBReadR_Report.html#/title-slide">Report</a>] <br> With Zachary Pipping <br> <strong><em>(To Be Presented at the 2025 CMU Sports Analytics Conference)</em></strong></p>
+<p><strong>Team Coin Flip: Travel Fatigue and Performance</strong> [<a href="https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance">Slides</a>] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina <br> <strong><em>(2nd Place out of 59, 2024 Rice Datathon, $700 Prize)</em></strong></p>
+<p><strong>Breaking the Cycle: Reducing Recidivism in Iowa State Prisons</strong> [<a href="https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf">Paper</a>][<a href="https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html">Press Release</a>] <br> With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu <br> <strong><em>(2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)</em></strong></p>
 </section>
-<section id="breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons" class="level3">
-<h3 class="anchored" data-anchor-id="breaking-the-cycle-reducing-recidivism-in-iowa-state-prisons"><a href="https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf">Breaking the Cycle: Reducing Recidivism in Iowa State Prisons</a></h3>
-<p><img src="assets/SHAP-Values.png" class="img-fluid"></p>
-<p>This group project evaluates the factors contributing to prison recidivism and looks to predict the total fiscal cost of recidivism for the May 2023 population of the Iowa state prison system. We created a binary classifier using a Feedforward Neural Network which would predict the probability that an inmate, given certain variables, would re-offend.</p>
-<p>Since it was found that time-sensitive, county-level data (e.g.&nbsp;unemployment rate) affected recidivism rates, we fit distributions to model the length of an inmate’s sentence, given the severity of the crime, and created regressions to model the county-level data at release time. We also used previous data to find the odds of an inmate committing a different severity of crime, given that they re-offend.</p>
-<p>These models were used in a Monte Carlo simulation, where for each trial, the simulation predicts the release month of each inmate and the county-level parameters at that time. Using these variables, a Feedforward Neural Network predicts the odds of recidivism. We also find what level of crime would be committed, given re-offense, for each crime. We would then find the expected cost of recidivism by multiplying all the odds of recidivism by the fiscal cost of the predicted severity of crime.</p>
-<p>For factor analysis, we used the SHAP (SHapley Additive exPlantations) library which used Shapley values from game theory to find which variables had the most effect on an inmate’s probability of re-offense.</p>
-<p>This project was created as a submission for the 2023 Modeling the Future Challenge (MTFC), where we finished 2nd place out of 227 teams, gaining a $15,000 team award as well as a publication in the 2023 edition of the Actuarial Clearing House publication.</p>
+<section id="blog" class="level2">
+<h2 class="anchored" data-anchor-id="blog">Blog</h2>
+<p><a href="https://medium.com/@louzhou6/naive-modeling-of-the-2024-march-madness-tournament-7d99fdb82949">Naive Modeling of the 2024 March Madness Tournament</a></p>
+<p><a href="https://medium.com/@louzhou6/how-do-field-dimensions-affect-the-directness-of-a-soccer-team-0fe555f94ead">How Do Field Dimensions Affect the Directness of a Soccer Team?</a></p>
 
 
 </section>
