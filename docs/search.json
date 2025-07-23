@@ -1,63 +1,63 @@
 [
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#motivating-example---pj-walker-to-dj-moore",
-    "href": "assets/QBReadR/QBReadR_Slides.html#motivating-example---pj-walker-to-dj-moore",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#motivating-example---pj-walker-to-dj-moore",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#motivating-example---pj-walker-to-dj-moore",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Motivating Example - PJ Walker to DJ Moore",
     "text": "Motivating Example - PJ Walker to DJ Moore"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#motivating-questions",
-    "href": "assets/QBReadR/QBReadR_Slides.html#motivating-questions",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#motivating-questions",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#motivating-questions",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Motivating Questions",
     "text": "Motivating Questions\n\n\nHow likely would other QBs make that same decision?\n\n\n\n\nCan we quantify how reckless or conservative a QB is?\n\nAre QBs being too reckless or too conservative in their throws?\n\n\n\n\n\nContextualizing touchdown throws / interceptions\n\nWould other QBs make the same decision?\n\n\n\n\n\nLook to build a ranking model which determines the most likely receiver at a frame given throw attempt"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#data-overview",
-    "href": "assets/QBReadR/QBReadR_Slides.html#data-overview",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#data-overview",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#data-overview",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Data Overview",
     "text": "Data Overview\n\n\n\n2025 NFL Big Data Bowl – Weeks 1–9\n\n\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\n\n\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#current-spacing-tells-an-incomplete-story",
-    "href": "assets/QBReadR/QBReadR_Slides.html#current-spacing-tells-an-incomplete-story",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#current-spacing-tells-an-incomplete-story",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#current-spacing-tells-an-incomplete-story",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Current Spacing Tells an Incomplete Story",
     "text": "Current Spacing Tells an Incomplete Story"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#speed-and-orientation-as-a-proxy-for-future-separation",
-    "href": "assets/QBReadR/QBReadR_Slides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#speed-and-orientation-as-a-proxy-for-future-separation",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Speed and Orientation as a Proxy for Future Separation",
     "text": "Speed and Orientation as a Proxy for Future Separation"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#methodology",
-    "href": "assets/QBReadR/QBReadR_Slides.html#methodology",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#methodology",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#methodology",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Methodology",
     "text": "Methodology\n\n\nBuilding a ranking algorithm(i.e. XGBoost) to rank the likeliest recipient at a frame - 53.0 \\(\\pm\\) 0.6% accuracy\n\nImputing Features like distance from tracking and event data\nPrevious Work: Deep Learning Approach1, 59.8% accuracy\n\n\n\n\n\nApplying model to quantify recklessness / conservative tendencies of quarterbacks\n\n\nBurke, Brian. “DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making & Performance.” MIT Sloan Sports Analytics Conference, 1 Mar. 2019."
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#feature-set",
-    "href": "assets/QBReadR/QBReadR_Slides.html#feature-set",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#feature-set",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#feature-set",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Feature Set",
     "text": "Feature Set\n\nRecipient Features - Distances, Differences in Orientations and Speeds from Top 5 Closest Defenders, Whether the Throw will Result in a First Down, Space Creation1, Receiver Skill\n\n\n\nQuarterback Features - Distance from Receiver, Movement Vector, Defensive Pressure\n\n\n\n\nGame Context - Win Probability, Quarter, Down and Distance, Score Differential\n\n\nhttps://github.com/burrisk/Big-Data-Bowl/"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#future-steps",
-    "href": "assets/QBReadR/QBReadR_Slides.html#future-steps",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#future-steps",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#future-steps",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Future Steps",
     "text": "Future Steps\n\n\nContinuing to build feature set to increase model performance\n\nLooking to perform comparably with previous deep learning approach and simpler models\n\n\n\n\n\nCutting down on Redundant Features and Parameter Tuning\n\nBuilding the simplest model with the strongest predictive power\n\n\n\n\n\nQuantifying Recklessness with Model Outputs"
   },
   {
-    "objectID": "assets/QBReadR/QBReadR_Slides.html#appendix",
-    "href": "assets/QBReadR/QBReadR_Slides.html#appendix",
+    "objectID": "assets/PassPredictR/PassPredictR_Slides.html#appendix",
+    "href": "assets/PassPredictR/PassPredictR_Slides.html#appendix",
     "title": "Quantifying QB Throw Decision-Making in Football",
     "section": "Appendix",
     "text": "Appendix"
@@ -67,14 +67,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "QBReadR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice [Poster] [Slides] [Report]  With Zachary Pipping  (To Be Presented at the 2025 CMU Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
+    "text": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice [Poster] [Slides] [Report]  With Zachary Pipping  (To Be Presented at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
   },
   {
     "objectID": "projects.html#academic-projects",
     "href": "projects.html#academic-projects",
     "title": "Projects",
     "section": "",
-    "text": "QBReadR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice [Poster] [Slides] [Report]  With Zachary Pipping  (To Be Presented at the 2025 CMU Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
+    "text": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice [Poster] [Slides] [Report]  With Zachary Pipping  (To Be Presented at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
   },
   {
     "objectID": "projects.html#blog",
