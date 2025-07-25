@@ -164,7 +164,7 @@ format:
 -   Contact Us:
 
     -   Lou Zhou: [lou-zhou.github.io](https://lou-zhou.github.io)
-    -   Zachary Pipping: [zachbtw.github.io](zachbtw.github.io)
+    -   Zachary Pipping: [zachbtw.github.io](https://zachbtw.github.io)
 
 ## Appendix A - Projecting Future Locations With a Point Estimate
 
