@@ -3,12 +3,12 @@ title: "PassPredictR: Contextualizing NFL Throwing Decisions By Modeling Receive
 author:   
   - name: Lou Zhou
     email: lz80@rice.edu
-    url: lou-zhou.github.io
+    url: https://lou-zhou.github.io
     affiliations:
       - name: Rice University
   - name: Zachary Pipping
     email: zrpipping@gmail.com
-    url: zachbtw.github.io
+    url: https://zachbtw.github.io
     affiliations:
       - name: University of Florida
 format: html
