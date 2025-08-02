@@ -4,18 +4,11 @@ title: "Projects"
 
 ## Academic Projects
 
-**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** [[Poster](assets/QBReadR/PassPredictR_Poster.pdf)] [[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)] [[Report](assets/QBReadR/PassPredictR_Report.html)] <br>
-With Zachary Pipping <br>
-***(To Be Presented at the 2025 Carnegie Mellon Sports Analytics Conference)***
+**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\] <br> With Zachary Pipping <br> ***(To Be Presented at the 2025 Carnegie Mellon Sports Analytics Conference)***
 
-**Team Coin Flip: Travel Fatigue and Performance** [[Slides](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)] <br>
-With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br>
-***(2nd Place out of 59, 2024 Rice Datathon, $700 Prize)***
+**Team Coin Flip: Travel Fatigue and Performance** \[[Slides](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
 
-**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons**
-[[Paper](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)][[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)] <br>
-With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu <br>
-***(2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)***
+**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons** \[[Paper](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)\]\[[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)\] <br> With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu <br> ***(2nd Place out of 227, 2023 Modeling the Future Challenge, \$15,000 Prize)***
 
 ## Blog
 

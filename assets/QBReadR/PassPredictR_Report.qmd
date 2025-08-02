@@ -96,7 +96,7 @@ Another valuable feature in determining where a quarterback will throw is the an
 In combination with these metrics, we derive a feature set which captures the game-state in three categories: the receiver, the quarterback, and the game context.
 
 | Feature Category | Features |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Recipient Features** | \- *Distance (x, y, magnitude)\** <br> - *Speed Differences (x, y, magnitude)\** <br> - *Orientation Differences\** <br> - *Speed Vector Distances\** <br> - Receiver Position <br> - First Down Indicator <br> - Number of Defenders in Route-Runner's "Next 5 Yards" |
 | **Quarterback Features** | \- Distance from Receiver <br> - Movement Vector <br> - Angle between QB Orientation and Receiver 5 Frames Prior <br> - Under Pressure Indicator |
 | **Game Context** | \- Quarter <br> - Down and Distance <br> - Score Differential <br> - Time Remaining |
