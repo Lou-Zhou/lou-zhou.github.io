@@ -3,9 +3,10 @@ title: "Projects"
 ---
 
 ## Academic Projects
-**gg-pyparser: A Generalized Python Library for Parsing Esports Data** \[[Code](https://github.com/Lou-Zhou/gg-pyscraper)\]
 
-**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\] <br> With Zachary Pipping <br> ***(To Be Presented at the 2025 Carnegie Mellon Sports Analytics Conference)***
+**gg-pyparser: A Generalized Python Library for Parsing Esports Data** \[[Code](https://github.com/Lou-Zhou/gg-pyscraper)\] <br> ***(Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+
+**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\] <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
 
 **Team Coin Flip: Travel Fatigue and Performance** <br> \[[Slides](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
 
