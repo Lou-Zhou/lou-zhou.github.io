@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Lou Zhou",
     "section": "",
-    "text": "Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics and Sport Analytics. I’m originally from Memphis, TN, where I graduated from Memphis University School in 2023. I currently work as a research assistant in Professor Scott Powers’ Lab at Rice University where I focus on projects in sport analytics. Additionally, I co-lead a 13-person engineering team which builds internal analytics tools for Rice Athletics. Next Fall, I will also be joining the Oklahoma City Thunder as a basketball analyst intern.\nIn addition to traditional sports, I also am interested in applications of data science to esports, where I am currently building gg-pyparser, a Python package which parses Liquipedia esports data for easy use.\nOutside of data science, I enjoy gardening, playing soccer, and technical theater.\n\n\nRice University | Houston, TX\nB.A. in Statistics and Sport Analytics | August 2023 - May 2027\n\n\n\nRice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu\nShelby County Election Commission | Memphis, TN | Data Analyst Intern\nJune 2023 - July 2023"
+    "text": "Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics and Sport Analytics. I’m originally from Memphis, TN, where I graduated from Memphis University School in 2023. At Rice, I am fortunate enough to work as a research assistant in Professor Scott Powers’ Lab at Rice University where I focus on projects in sport analytics. Additionally, I co-lead a 13-person engineering team which is currently building a shiny app which automates parts of scouting reports for Rice Men’s Basketball.\nIn addition to traditional sports, I also am interested in applications of data science to esports, where I am currently developing gg-pyparser, a Python package which parses Liquipedia esports data for easy use.\nOutside of data science, I enjoy gardening, playing soccer, and technical theater.\n\n\nRice University | Houston, TX\nB.A. in Statistics and Sport Analytics | August 2023 - May 2027\n\n\n\nOklahoma City Thunder | Oklahoma City, OK | Incoming Basketball Analytics Intern\nFall 2026\nRice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu\nShelby County Election Commission | Memphis, TN | Data Analyst Intern\nJune 2023 - July 2023"
   },
   {
     "objectID": "index.html#education",
@@ -67,21 +67,21 @@
     "href": "index.html#experience",
     "title": "Lou Zhou",
     "section": "",
-    "text": "Rice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu\nShelby County Election Commission | Memphis, TN | Data Analyst Intern\nJune 2023 - July 2023"
+    "text": "Oklahoma City Thunder | Oklahoma City, OK | Incoming Basketball Analytics Intern\nFall 2026\nRice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu\nShelby County Election Commission | Memphis, TN | Data Analyst Intern\nJune 2023 - July 2023"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "gg-pyparser: A Generalized Python Library for Parsing Esports Data  [Code][Poster]  (Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Poster] [Slides] [Report][Code]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
+    "text": "gg-pyparser: A Generalized Python Library for Parsing Esports Data  [Code][Poster]  (Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Poster] [Slides] [Report][Code][Presentation]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
   },
   {
     "objectID": "projects.html#academic-projects",
     "href": "projects.html#academic-projects",
     "title": "Projects",
     "section": "",
-    "text": "gg-pyparser: A Generalized Python Library for Parsing Esports Data  [Code][Poster]  (Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Poster] [Slides] [Report][Code]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
+    "text": "gg-pyparser: A Generalized Python Library for Parsing Esports Data  [Code][Poster]  (Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Poster] [Slides] [Report][Code][Presentation]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Slides]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu  (2nd Place out of 227, 2023 Modeling the Future Challenge, $15,000 Prize)"
   },
   {
     "objectID": "projects.html#blog",
@@ -215,5 +215,19 @@
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Appendix E - Head Tracking Proof of Concept",
     "text": "Appendix E - Head Tracking Proof of Concept"
+  },
+  {
+    "objectID": "projects.html#technical-projects",
+    "href": "projects.html#technical-projects",
+    "title": "Projects",
+    "section": "Technical Projects",
+    "text": "Technical Projects\nAutomating Scouting Reports for Rice Men’s Basketball  (In Progress)"
+  },
+  {
+    "objectID": "projects.html#rice-athletics",
+    "href": "projects.html#rice-athletics",
+    "title": "Projects",
+    "section": "Rice Athletics",
+    "text": "Rice Athletics\nAutomating Scouting Reports for Rice Men’s Basketball  (In Progress)"
   }
 ]

@@ -6,14 +6,21 @@ title: "Projects"
 
 **gg-pyparser: A Generalized Python Library for Parsing Esports Data** <br> \[[Code](https://github.com/Lou-Zhou/gg-pyscraper)\]\[[Poster](assets/ggpyparser_poster.pdf)\] <br> ***(Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
 
-**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\] <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\]\[[Presentation](https://www.youtube.com/watch?v=55bdVxbE2oc&list=PLGamdDdd5qYiDoz7kjavfU76HSNfovUIz&index=9)\] <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
 
 **Team Coin Flip: Travel Fatigue and Performance** <br> \[[Slides](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
 
-**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons** <br> \[[Paper](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)\]\[[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)\] <br> With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu <br> ***(2nd Place out of 227, 2023 Modeling the Future Challenge, \$15,000 Prize)***
+**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons** <br> \[[Paper](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)\]\[[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)\] <br> With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu 
+<br> ***(2nd Place out of 227, 2023 Modeling the Future Challenge, \$15,000 Prize)***
+
+## Rice Athletics
+
+Automating Scouting Reports for Rice Men's Basketball <br>
+***(In Progress)***
 
 ## Blog
 
 [Naive Modeling of the 2024 March Madness Tournament](https://medium.com/@louzhou6/naive-modeling-of-the-2024-march-madness-tournament-7d99fdb82949)
 
 [How Do Field Dimensions Affect the Directness of a Soccer Team?](https://medium.com/@louzhou6/how-do-field-dimensions-affect-the-directness-of-a-soccer-team-0fe555f94ead)
+
