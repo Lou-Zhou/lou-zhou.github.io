@@ -2,19 +2,21 @@
 title: "Projects"
 ---
 
-## Academic Projects
+## Sports Projects
 
-**Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning** <br> \[[Code](https://github.com/Lou-Zhou/asi_goalkeeper_positioning)\]\[[Paper](assets/GPS_ASI2025.pdf)\] <br>
-***(To Be Presented at the 2026 American Soccer Insights Summit)***
+**Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning** <br> \[[Github](https://github.com/Lou-Zhou/asi_goalkeeper_positioning)\]\[[Slides](https://docs.google.com/presentation/d/1C-Y8lqNzHA35j-SU1op6bwFSE4lLFKfJ/edit?usp=sharing&ouid=110452879737003772556&rtpof=true&sd=true)\]\[[Paper](assets/GPS_ASI2025_v2.pdf)\] <br>
+***(Oral Presentation at the 2026 American Soccer Insights Summit)***
 
-**gg-pyparser: A Generalized Python Library for Parsing Esports Data** <br> \[[Code](https://github.com/Lou-Zhou/gg-pyscraper)\]\[[Poster](assets/ggpyparser_poster.pdf)\] <br> ***(Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> 
+\[[Github](https://github.com/zachbtw/Zhou-Pipping-CMSA)\]\[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Paper](assets/QBReadR/PassPredictR_Report.html)\]\[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\]\[[Talk](https://www.youtube.com/watch?v=55bdVxbE2oc&list=PLGamdDdd5qYiDoz7kjavfU76HSNfovUIz&index=9)\]
+ <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
 
-**PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> \[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\] \[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Report](assets/QBReadR/PassPredictR_Report.html)\]\[[Code](https://github.com/zachbtw/Zhou-Pipping-CMSA)\]\[[Presentation](https://www.youtube.com/watch?v=55bdVxbE2oc&list=PLGamdDdd5qYiDoz7kjavfU76HSNfovUIz&index=9)\] <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+**Team Coin Flip: Travel Fatigue and Performance** <br> \[[Github](https://github.com/Lou-Zhou/ricedatathon2024)\]\[[Slides](https://docs.google.com/presentation/d/1HUp9Kr_D8UdgxHdcPZNnpCHjAIQEv9rD-bgFx95UiPE/edit?usp=sharing)\]\[[Talk](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
 
-**Team Coin Flip: Travel Fatigue and Performance** <br> \[[Slides](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
+## Esports Projects
 
-**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons** <br> \[[Paper](https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf)\]\[[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)\] <br> With Amar Kanakamedala, Jeffrey Liu, Henry Yu, Evan Wu 
-<br> ***(2nd Place out of 227, 2023 Modeling the Future Challenge, \$15,000 Prize)***
+**gg-pyparser: A Generalized Python Library for Parsing Esports Data** <br> \[[Github](https://github.com/Lou-Zhou/gg-pyscraper)\]\[[Poster](assets/ggpyparser_poster.pdf)\] <br> ***(Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+
 
 ## Rice Athletics
 
