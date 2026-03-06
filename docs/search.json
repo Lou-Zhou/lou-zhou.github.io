@@ -74,28 +74,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper]  (Oral Presentation at the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Talk]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)"
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
   },
   {
     "objectID": "projects.html#sports-projects",
     "href": "projects.html#sports-projects",
     "title": "Projects",
     "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper]  (Oral Presentation at the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Talk]  With Zachary Pipping  (Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59, 2024 Rice Datathon, $700 Prize)"
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
   },
   {
     "objectID": "projects.html#esports-projects",
     "href": "projects.html#esports-projects",
     "title": "Projects",
     "section": "Esports Projects",
-    "text": "Esports Projects\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)"
+    "text": "Esports Projects\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)"
   },
   {
     "objectID": "projects.html#rice-athletics",
     "href": "projects.html#rice-athletics",
     "title": "Projects",
     "section": "Rice Athletics",
-    "text": "Rice Athletics\nAutomating Scouting Reports for Rice Men’s Basketball  (In Progress)"
+    "text": "Rice Athletics\nAutomating Scouting Reports for Rice Men’s Basketball  [Github]"
   },
   {
     "objectID": "projects.html#blog",
@@ -229,5 +229,33 @@
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Appendix E - Head Tracking Proof of Concept",
     "text": "Appendix E - Head Tracking Proof of Concept"
+  },
+  {
+    "objectID": "projects.html#sports-and-esports-projects",
+    "href": "projects.html#sports-and-esports-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Projects",
+    "section": "Other Projects",
+    "text": "Other Projects"
+  },
+  {
+    "objectID": "projects.html#sports-esports-projects",
+    "href": "projects.html#sports-esports-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
+  },
+  {
+    "objectID": "projects.html#non-sports-esports-projects",
+    "href": "projects.html#non-sports-esports-projects",
+    "title": "Projects",
+    "section": "Non Sports / Esports Projects",
+    "text": "Non Sports / Esports Projects\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Evan Wu, Jeffrey Liu, Henry Yu  (2nd Place out of 227 Teams @ the 2023 Modeling the Future Challenge, $15,000 Prize)"
   }
 ]

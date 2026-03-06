@@ -2,26 +2,31 @@
 title: "Projects"
 ---
 
-## Sports Projects
+## Sports / Esports Projects
 
-**Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning** <br> \[[Github](https://github.com/Lou-Zhou/asi_goalkeeper_positioning)\]\[[Slides](https://docs.google.com/presentation/d/1C-Y8lqNzHA35j-SU1op6bwFSE4lLFKfJ/edit?usp=sharing&ouid=110452879737003772556&rtpof=true&sd=true)\]\[[Paper](assets/GPS_ASI2025_v2.pdf)\] <br>
-***(Oral Presentation at the 2026 American Soccer Insights Summit)***
+**Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning** <br> \[[Github](https://github.com/Lou-Zhou/asi_goalkeeper_positioning)\]\[[Slides](https://docs.google.com/presentation/d/1C-Y8lqNzHA35j-SU1op6bwFSE4lLFKfJ/edit?usp=sharing&ouid=110452879737003772556&rtpof=true&sd=true)\]\[[Paper](assets/GPS_ASI2025_v2.pdf)\]\[[Recorded Talk](https://www.youtube.com/watch?v=Yg8ntON0m6U)\] <br>
+***(Paper Talk @ the 2026 American Soccer Insights Summit)***
 
 **PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice** <br> 
-\[[Github](https://github.com/zachbtw/Zhou-Pipping-CMSA)\]\[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Paper](assets/QBReadR/PassPredictR_Report.html)\]\[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\]\[[Talk](https://www.youtube.com/watch?v=55bdVxbE2oc&list=PLGamdDdd5qYiDoz7kjavfU76HSNfovUIz&index=9)\]
- <br> With Zachary Pipping <br> ***(Oral Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+\[[Github](https://github.com/zachbtw/Zhou-Pipping-CMSA)\]\[[Slides](assets/QBReadR/QBReadR_Slides.html#/title-slide)\] \[[Paper](assets/QBReadR/PassPredictR_Report.html)\]\[[Poster](assets/QBReadR/PassPredictR_Poster.pdf)\]\[[Recorded Talk](https://www.youtube.com/watch?v=55bdVxbE2oc&list=PLGamdDdd5qYiDoz7kjavfU76HSNfovUIz&index=9)\]
+ <br> With Zachary Pipping <br> ***(Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)***
 
-**Team Coin Flip: Travel Fatigue and Performance** <br> \[[Github](https://github.com/Lou-Zhou/ricedatathon2024)\]\[[Slides](https://docs.google.com/presentation/d/1HUp9Kr_D8UdgxHdcPZNnpCHjAIQEv9rD-bgFx95UiPE/edit?usp=sharing)\]\[[Talk](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59, 2024 Rice Datathon, \$700 Prize)***
+**gg-pyparser: A Generalized Python Library for Parsing Esports Data** <br> \[[Github](https://github.com/Lou-Zhou/gg-pyscraper)\]\[[Poster](assets/ggpyparser_poster.pdf)\] <br> ***(Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)***
 
-## Esports Projects
+**Team Coin Flip: Travel Fatigue and Performance** <br> \[[Github](https://github.com/Lou-Zhou/ricedatathon2024)\]\[[Slides](https://docs.google.com/presentation/d/1HUp9Kr_D8UdgxHdcPZNnpCHjAIQEv9rD-bgFx95UiPE/edit?usp=sharing)\]\[[Recorded Talk](https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance)\] <br> With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang'ina <br> ***(2nd Place out of 59 @ the 2024 Rice Datathon, \$700 Prize)***
 
-**gg-pyparser: A Generalized Python Library for Parsing Esports Data** <br> \[[Github](https://github.com/Lou-Zhou/gg-pyscraper)\]\[[Poster](assets/ggpyparser_poster.pdf)\] <br> ***(Poster Presentation at the 2025 Carnegie Mellon Sports Analytics Conference)***
+
+## Non Sports / Esports Projects
+
+**Breaking the Cycle: Reducing Recidivism in Iowa State Prisons** <br> [[Paper](https://www.mtfchallenge.org/wp-content/uploads/2023/04/Breaking-the-Cycle-Reducing-Recidivism-in-Iowa-State-Prisons.pdf)][[Press Release](https://www.prnewswire.com/news-releases/the-actuarial-foundations-modeling-the-future-challenge-awards-fifteen-students-college-scholarships-301812259.html)] <br>
+With Amar Kanakamedala, Evan Wu, Jeffrey Liu, Henry Yu <br>
+***(2nd Place out of 227 Teams @ the 2023 Modeling the Future Challenge, \$15,000 Prize)***
 
 
 ## Rice Athletics
 
 Automating Scouting Reports for Rice Men's Basketball <br>
-***(In Progress)***
+[[Github](https://github.com/RSAT-Technical-Projects-Team/mbb_scouting_reports)]
 
 ## Blog
 
