@@ -53,56 +53,35 @@
     "href": "index.html",
     "title": "Lou Zhou",
     "section": "",
-    "text": "Hello! My name is Lou, and I am a Junior at Rice University, studying Statistics, Sport Analytics, and Mathematics. I’m originally from Memphis, TN, where I graduated from Memphis University School in 2023. At Rice, I am fortunate enough to work as a research assistant in Professor Scott Powers’ Lab at Rice University where I focus on projects in sport analytics. Additionally, I help lead a 13-person engineering team which helps build internal scouting and data tools for Rice Athletics.\nIn addition to traditional sports, I also am interested in applications of data science to esports, where I have built gg-pyparser, a Python package which parses Liquipedia esports data for easy use, and am currently working on a Counter-Strike 2 project for my major Capstone.\nOutside of data science, I enjoy gardening, playing soccer, and technical theater.\n\n\nRice University | Houston, TX\nStatistics, Sport Analytics, and Mathematics | August 2023 - May 2027\n\n\n\nOklahoma City Thunder | Remote | Incoming Basketball Analytics Intern\nFall 2026\nCincinnati Reds | Cincinnati, OH | Incoming Baseball Analytics Trainee\nSummer 2026\nRice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu"
+    "text": "Hello! My name is Lou, and I am a Junior at Rice University, majoring in Statistics and Sport Analytics,with a minor in Math. At Rice, I’m lucky enough to work as a research assistant at Professor Scott Powers’ Lab at Rice University, which focuses on projects in sport analytics. I’m fortunate enough to be joining the Cincinnati Reds in the summer as a baseball analytics trainee and the Oklahoma City Thunder in the fall as a basketball analyst intern.\nOutside of traditional sports, I also am interested in applications of data science to esports, where I have built gg-pyparser, a Python package which parses Liquipedia esports data for easy use.\nOutside of the computer screen, I enjoy gardening, playing soccer, and technical theater.\n\n\nRice University | Houston, TX\nStatistics, Sport Analytics | August 2023 - May 2027\n\n\n\nOklahoma City Thunder | Remote | Incoming Basketball Analytics Intern\nFall 2026\nCincinnati Reds | Cincinnati, OH | Incoming Baseball Analytics Trainee\nSummer 2026\nRice University | Houston, TX | Research and Teaching Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Lou Zhou",
     "section": "",
-    "text": "Rice University | Houston, TX\nStatistics, Sport Analytics, and Mathematics | August 2023 - May 2027"
+    "text": "Rice University | Houston, TX\nStatistics, Sport Analytics | August 2023 - May 2027"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Lou Zhou",
     "section": "",
-    "text": "Oklahoma City Thunder | Remote | Incoming Basketball Analytics Intern\nFall 2026\nCincinnati Reds | Cincinnati, OH | Incoming Baseball Analytics Trainee\nSummer 2026\nRice Athletics | Houston, TX | Student Technical Projects Co-Lead\nAugust 2025 - Present\nRice University | Houston, TX | Research Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu"
+    "text": "Oklahoma City Thunder | Remote | Incoming Basketball Analytics Intern\nFall 2026\nCincinnati Reds | Cincinnati, OH | Incoming Baseball Analytics Trainee\nSummer 2026\nRice University | Houston, TX | Research and Teaching Assistant\nAugust 2024 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2025 - July 2025 | Mentors: Karim Kassam, Quang Nguyen\nSt. Jude Children’s Research Hospital | Memphis, TN | Research Assistant\nJune 2024 - July 2024 | PI: Gang Wu"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk at the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk at the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 at the 2024 Rice Datathon, $700 Prize)"
   },
   {
-    "objectID": "projects.html#sports-projects",
-    "href": "projects.html#sports-projects",
+    "objectID": "projects.html#sports-esports-projects",
+    "href": "projects.html#sports-esports-projects",
     "title": "Projects",
     "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
-  },
-  {
-    "objectID": "projects.html#esports-projects",
-    "href": "projects.html#esports-projects",
-    "title": "Projects",
-    "section": "Esports Projects",
-    "text": "Esports Projects\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)"
-  },
-  {
-    "objectID": "projects.html#rice-athletics",
-    "href": "projects.html#rice-athletics",
-    "title": "Projects",
-    "section": "Rice Athletics",
-    "text": "Rice Athletics\nAutomating Scouting Reports for Rice Men’s Basketball  [Github]"
-  },
-  {
-    "objectID": "projects.html#blog",
-    "href": "projects.html#blog",
-    "title": "Projects",
-    "section": "Blog",
-    "text": "Blog\nNaive Modeling of the 2024 March Madness Tournament\nHow Do Field Dimensions Affect the Directness of a Soccer Team?"
+    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk at the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk at the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster at the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 at the 2024 Rice Datathon, $700 Prize)"
   },
   {
     "objectID": "assets/QBReadR/QBReadR_Slides.html#motivating-example---pj-walker-to-dj-moore",
@@ -229,33 +208,5 @@
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Appendix E - Head Tracking Proof of Concept",
     "text": "Appendix E - Head Tracking Proof of Concept"
-  },
-  {
-    "objectID": "projects.html#sports-and-esports-projects",
-    "href": "projects.html#sports-and-esports-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
-  },
-  {
-    "objectID": "projects.html#other-projects",
-    "href": "projects.html#other-projects",
-    "title": "Projects",
-    "section": "Other Projects",
-    "text": "Other Projects"
-  },
-  {
-    "objectID": "projects.html#sports-esports-projects",
-    "href": "projects.html#sports-esports-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Goalkeeper Positioning Score: A Metric for Evaluating Goalkeeping Positioning  [Github][Slides][Paper][Recorded Talk]  (Paper Talk @ the 2026 American Soccer Insights Summit)\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice  [Github][Slides] [Paper][Poster][Recorded Talk]  With Zachary Pipping  (Paper Talk @ the 2025 Carnegie Mellon Sports Analytics Conference)\ngg-pyparser: A Generalized Python Library for Parsing Esports Data  [Github][Poster]  (Poster @ the 2025 Carnegie Mellon Sports Analytics Conference)\nTeam Coin Flip: Travel Fatigue and Performance  [Github][Slides][Recorded Talk]  With Amar Kanakamedala, Achraf Azzaoui, Romanus Ang’ina  (2nd Place out of 59 @ the 2024 Rice Datathon, $700 Prize)"
-  },
-  {
-    "objectID": "projects.html#non-sports-esports-projects",
-    "href": "projects.html#non-sports-esports-projects",
-    "title": "Projects",
-    "section": "Non Sports / Esports Projects",
-    "text": "Non Sports / Esports Projects\nBreaking the Cycle: Reducing Recidivism in Iowa State Prisons  [Paper][Press Release]  With Amar Kanakamedala, Evan Wu, Jeffrey Liu, Henry Yu  (2nd Place out of 227 Teams @ the 2023 Modeling the Future Challenge, $15,000 Prize)"
   }
 ]
