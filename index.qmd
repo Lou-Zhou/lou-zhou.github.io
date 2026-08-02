@@ -16,7 +16,7 @@ about:
 ---
 
 ::: {#hero-heading}
-Hello! My name is Lou, and I am a Junior at Rice University, majoring in Statistics and Sport Analytics,with a minor in Math. At Rice, I'm lucky enough to work as a research assistant at [Professor Scott Powers' Lab at Rice University](https://saberpowers.github.io/lab/), which focuses on projects in sport analytics. I'm fortunate enough to be joining the Cincinnati Reds in the summer as a baseball analytics trainee and the Oklahoma City Thunder in the fall as a basketball analyst intern.
+Hello! My name is Lou, and I am a senior at Rice University, majoring in Statistics and Sport Analytics, with a minor in Math. At Rice, I've been lucky enough to work as a research assistant at [Professor Scott Powers' Lab at Rice University](https://saberpowers.github.io/lab/), which focuses on projects in sport analytics. Outside of the classroom, I've been fortunate enough have worked for the Cincinnati Reds as a baseball analytics trainee and will be joining the Oklahoma City Thunder in the fall as a basketball analyst intern.
 
 Outside of traditional sports, I also am interested in applications of data science to esports, where I have built [gg-pyparser](https://github.com/Lou-Zhou/gg-pyscraper), a Python package which parses Liquipedia esports data for easy use.
 
@@ -30,10 +30,10 @@ Statistics, Sport Analytics \| August 2023 - May 2027
 ## Experience
 
 **Oklahoma City Thunder** \| Remote \| Incoming Basketball Analytics Intern \
-Fall 2026
+September 2026
 
-**Cincinnati Reds** \| Cincinnati, OH \| Incoming Baseball Analytics Trainee \
-Summer 2026
+**Cincinnati Reds** \| Cincinnati, OH \| Baseball Analytics Trainee \
+May 2026 - July 2026
 
 **Rice University** \| Houston, TX \| Research and Teaching Assistant\
 August 2024 - Present \| *PI: [Scott Powers](https://saberpowers.github.io/)*
